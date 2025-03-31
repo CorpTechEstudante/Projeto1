@@ -6,4 +6,5 @@ while True:
         for c in range(1,11):
             tabuada = num * c
             print(f'{num} x {c} = {tabuada}')
+            print('Tabuada feita com sucesso!')
 print('Programa Finalizado')
